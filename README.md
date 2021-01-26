@@ -1,5 +1,6 @@
 <h1 align="center"> Hi！there 🤟</h1>
 <h3 align="center">A passionate developer from ChengDu</h3>
+
 ![..](/icons/header.png)
 
 - 🧐 Interested in **Data Visualization**. Recent focus on frontend.
@@ -10,10 +11,9 @@
 
 - 📚 Reading more about **Philosophy** and how the computer works.
 
-- 📫 How to reach me =>my **Presonal WeChat**
+- 📫 How to reach me :[Presonal WeChat](/icons/WeChat.jpg)
 
 
-![WeChat](/icons/WeChat.jpg)
 
 
 
