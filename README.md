@@ -13,7 +13,7 @@
 
 - 📫 How to reach me :[Presonal WeChat](/icons/WeChat.jpg)
 
-[![LeeZChuan's github stats](https://github-readme-stats.vercel.app/api?username=LeeZChuan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![LeeZChuan's github stats](https://github-readme-stats.vercel.app/api?username=LeeZChuan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
