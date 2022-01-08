@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **FrontEnd, BackEnd, Data Visualization**
 
-- 💬 Ask me about **React, D3.js**
+- 💬 Ask me about **React, D3.js,Zrender**
 
 - 📚 Reading more about **Philosophy** and how the computer works.
 
