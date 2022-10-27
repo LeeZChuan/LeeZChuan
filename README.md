@@ -14,7 +14,7 @@
 - 📫 How to reach me :[Presonal WeChat](/icons/WeChat.jpg)
 
 
-| [![LeeZChuan's github stats](https://github-readme-stats.vercel.app/api?username=LeeZChuan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeZChuan&layout=compact&theme=buefy&hide_border=true" /> |
+| [![LeeZChuan's github stats](https://github-readme-stats.vercel.app/api?username=LeeZChuan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeZChuan&layout=compact&theme=radical&hide_border=true" /> |
 | ------------- | ------------- |
 
 
