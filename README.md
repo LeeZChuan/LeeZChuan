@@ -7,7 +7,7 @@
 <img src="https://readme-components.vercel.app/api?component=logo&logo=typescript&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=rust&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=vim&text=false&animation=spin&fill=black&textfill=bface6&">
-
+</h4>
 
 - 🧐 Interested in **Data Visualization**. Recent focus on frontend.
 
