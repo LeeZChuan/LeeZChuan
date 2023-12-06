@@ -3,6 +3,11 @@
 
 ![..](/icons/header.png)
 
+<img src="https://readme-components.vercel.app/api?component=logo&logo=ts&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=vue3&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=vim&text=false&animation=spin&fill=black&textfill=bface6&">
+
+
 - 🧐 Interested in **Data Visualization**. Recent focus on frontend.
 
 - 🌱 I’m currently learning **FrontEnd, BackEnd, Data Visualization**
