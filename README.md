@@ -3,6 +3,11 @@
 
 ![..](/icons/header.png)
 
+<p align="center"> 
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/LeeZChuan/count.svg" />
+</p>
+
 <h4 align="center">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=typescript&text=false&animation=spin&fill=black&textfill=bface6&">
@@ -12,10 +17,6 @@
 <img src="https://readme-components.vercel.app/api?component=logo&logo=vim&text=false&animation=spin&fill=black&textfill=bface6&">
 </h4>
 
-<p align="center"> 
-  Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/LeeZChuan/count.svg" />
-</p>
 
 <!--
 ##  My Skills
