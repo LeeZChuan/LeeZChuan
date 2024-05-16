@@ -17,6 +17,12 @@
   <img src="https://profile-counter.glitch.me/LeeZChuan/count.svg" />
 </p>
 
+
+##  My Skills
+
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
+
 - 🧐 Interested in **Data Visualization**. Recent focus on frontend.
 
 - 🌱 I’m currently learning **FrontEnd, BackEnd, Data Visualization**
