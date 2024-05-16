@@ -12,6 +12,11 @@
 <img src="https://readme-components.vercel.app/api?component=logo&logo=vim&text=false&animation=spin&fill=black&textfill=bface6&">
 </h4>
 
+<p align="center"> 
+  Visitor Count<br>
+  <img src="https://profile-counter.glitch.me/LeeZChuan/count.svg" />
+</p>
+
 - 🧐 Interested in **Data Visualization**. Recent focus on frontend.
 
 - 🌱 I’m currently learning **FrontEnd, BackEnd, Data Visualization**
