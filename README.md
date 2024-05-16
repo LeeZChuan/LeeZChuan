@@ -1,12 +1,13 @@
 <h1 align="center"> Hi！there 🤟</h1>
 <h3 align="center">A passionate developer from ChengDu</h3>
 
-![..](/icons/header.png)
-
 <p align="center"> 
   Visitor Count<br>
   <img src="https://profile-counter.glitch.me/LeeZChuan/count.svg" />
 </p>
+
+![..](/icons/header.png)
+
 
 <h4 align="center">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin&fill=black&textfill=bface6&">
