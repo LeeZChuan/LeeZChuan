@@ -1,5 +1,4 @@
 <h1 align="center"> Hi！there 🤟</h1>
-<h3 align="center">A passionate developer from ChengDu</h3>
 
 <p align="center"> 
   Visitor Count<br>
