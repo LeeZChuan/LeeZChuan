@@ -27,6 +27,10 @@
 
 -->
 
+## Resume
+
+Click **[📝 HERE](https://leezchuan.github.io/EasyHomePage)** to view my resume in detail.
+
 - 🧐 Interested in **Data Visualization**. Recent focus on frontend.
 
 - 🌱 I’m currently learning **FrontEnd, BackEnd, Data Visualization**
