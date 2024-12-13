@@ -37,7 +37,7 @@ Click **[📝 HERE](https://leezchuan.github.io/EasyHomePage)** to view my resum
 
 - 🌱 I’m currently learning **FrontEnd, BackEnd, Data Visualization**
 
-- 💬 Ask me about **Vue3,Flutter,React,D3.js,Zrender,Echarts**
+- 💬 Ask me about **Vue3,Electron,React,D3.js,Zrender,Echarts**
 
 - 📚 Reading more about **Philosophy** and how the computer works.
 
