@@ -37,11 +37,13 @@ Click **[📝 HERE](https://leezchuan.github.io/EasyHomePage)** to view my resum
 
 - 🌱 I’m currently learning **FrontEnd, BackEnd, Data Visualization**
 
-- 💬 Ask me about **Vue3,Electron,React,D3.js,Zrender,Echarts**
+- 💬 Ask me about **Vue3,React,D3.js,Zrender,Echarts**
 
 - 📚 Reading more about **Philosophy** and how the computer works.
 
 - 📫 How to reach me :[Presonal WeChat](/icons/WeChat.jpg)
+
+- Learning Electron , React Native and Flutter;
 
 
 | [![LeeZChuan's github stats](https://github-readme-stats.vercel.app/api?username=LeeZChuan&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeZChuan&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook" /> |
