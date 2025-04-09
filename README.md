@@ -13,7 +13,6 @@
 <img src="https://readme-components.vercel.app/api?component=logo&logo=java&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=typescript&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=webpack&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=Vue&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=sass&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=rust&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=vim&text=false&animation=spin&fill=black&textfill=bface6&">
@@ -21,17 +20,14 @@
 </h4>
 
 
-<!--
-##  My Skills
-
-![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
-
--->
 
 ## Resume
 
 Click **[📝 HERE](https://leezchuan.github.io/EasyHomePage)** to view my resume in detail.
+
+### Technologies and Tools
+![Technologies and Tools](https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,react,js,ts,spring,hibernate,kafka,redis,git,github,gitlab,bitbucket,docker,openshift,jenkins,elasticsearch,grafana,postgres,mysql,oracle,sqlserver,mongo,gradle,maven,idea,vscode,postman,&perline=14&theme=dark)
+
 
 ## Other
 
