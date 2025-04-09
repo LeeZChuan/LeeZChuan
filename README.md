@@ -26,7 +26,7 @@
 Click **[📝 HERE](https://leezchuan.github.io/EasyHomePage)** to view my resume in detail.
 
 ### Technologies and Tools
-![Technologies and Tools](https://go-skill-icons.vercel.app/api/icons?i=react,vue,java,vscode,kotlin,js,ts,git,github,gitlab,docker,grafana,mysql,oracle,postman,&perline=14&theme=dark)
+![Technologies and Tools](https://go-skill-icons.vercel.app/api/icons?i=react,vue,java,vscode,d3,echarts,kotlin,js,ts,git,github,gitlab,docker,grafana,mysql,oracle,postman,&perline=14&theme=dark)
 
 
 ## Other
