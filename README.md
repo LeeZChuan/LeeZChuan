@@ -17,7 +17,7 @@
 <img src="https://readme-components.vercel.app/api?component=logo&logo=rust&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=vim&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=nginx&text=false&animation=spin&fill=black&textfill=bface6&">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=golang&text=false&animation=spin&fill=black&textfill=bface6&">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=gin&text=false&animation=spin&fill=black&textfill=bface6&">
 </h4>
 
 
