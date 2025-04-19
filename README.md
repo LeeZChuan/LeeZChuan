@@ -17,6 +17,7 @@
 <img src="https://readme-components.vercel.app/api?component=logo&logo=rust&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=vim&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=nginx&text=false&animation=spin&fill=black&textfill=bface6&">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=golang&text=false&animation=spin&fill=black&textfill=bface6&">
 </h4>
 
 
@@ -41,7 +42,7 @@ Click **[📝 HERE](https://leezchuan.github.io/EasyHomePage)** to view my resum
 
 - 📫 How to reach me :[Presonal WeChat](/icons/WeChat.jpg)
 
-- Learning Electron , React Native and Flutter;
+- Learning Electron , React Native, golang and Flutter;
 
 
 | [![LeeZChuan's github stats](https://github-readme-stats.vercel.app/api?username=LeeZChuan&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeZChuan&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook" /> |
