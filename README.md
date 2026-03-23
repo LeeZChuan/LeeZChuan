@@ -31,9 +31,9 @@ Click **[📝 HERE](https://leezchuan.github.io/EasyHomePage)** to view my resum
 
 ## Other
 
-- 🧐 Interested in **Data Visualization**. Recent focus on frontend.
+- 🧐 Interested in **Data Visualization in VibeCoding**. Recent focus on Full Stack.
 
-- 🌱 I’m currently focus on **VibeCoding and SDD**
+- 🌱 I’m currently focus on **SDD and Prompt Enginner**
 
 - 💬 Ask me about **Vue3,React,Node.js,VibeCoding,D3.js,ZRender,Echarts**
 
