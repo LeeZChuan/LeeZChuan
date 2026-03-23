@@ -33,9 +33,9 @@ Click **[📝 HERE](https://leezchuan.github.io/EasyHomePage)** to view my resum
 
 - 🧐 Interested in **Data Visualization**. Recent focus on frontend.
 
-- 🌱 I’m currently learning **FrontEnd, BackEnd, Data Visualization**
+- 🌱 I’m currently focus on **VibeCoding and SDD**
 
-- 💬 Ask me about **Vue3,React,D3.js,Zrender,Echarts**
+- 💬 Ask me about **Vue3,React,Node.js,VibeCoding,D3.js,ZRender,Echarts**
 
 - 📚 Reading more about **Philosophy** and how the computer works.
 
